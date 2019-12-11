@@ -1,8 +1,5 @@
 def unsafe?(speed)
 
-
-
-
 end
 
 
